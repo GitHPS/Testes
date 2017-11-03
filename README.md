@@ -8,3 +8,5 @@ Esta é a segunda modificação.
 Vamos então há terceira.
 
 Avançando para a quarta alteração.
+
+O código foi alterado.
