@@ -9,3 +9,5 @@ if x == 1:
 
 # terceira fase
 print("End")
+
+# quarta fase com eclipse
